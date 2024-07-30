@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_category">
+    <sys_hub_category action="INSERT_OR_UPDATE">
+        <name>Glaciers</name>
+        <order>100</order>
+        <sys_class_name>sys_hub_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-30 18:30:58</sys_created_on>
+        <sys_id>b8220ed483730210469c11b6feaad3ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Glaciers</sys_name>
+        <sys_package display_value="World Glaciers Spoke" source="x_1477151_world_gl">8170ee9783ab4210469c11b6feaad32c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="World Glaciers Spoke">8170ee9783ab4210469c11b6feaad32c</sys_scope>
+        <sys_update_name>sys_hub_category_b8220ed483730210469c11b6feaad3ae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-30 18:30:58</sys_updated_on>
+    </sys_hub_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=b8220ed483730210469c11b6feaad3ae"/>
+</record_update>
